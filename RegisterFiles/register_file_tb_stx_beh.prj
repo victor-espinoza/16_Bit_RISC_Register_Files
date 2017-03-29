@@ -1,0 +1,5 @@
+verilog isim_temp "Source Code/reg16.v"
+verilog isim_temp "Source Code/decoder_3_to_8.v"
+verilog isim_temp "Source Code/register_file.v"
+verilog isim_temp "Source Code/register_file_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,5 @@
+set -tmpdir "F:/CECS 301/LABS/Lab 5 - Register Files/RegisterFiles/xst/projnav.tmp"
+set -xsthdpdir "F:/CECS 301/LABS/Lab 5 - Register Files/RegisterFiles/xst"
+elaborate
+-ifn decoder_3_to_8.prj
+-ifmt mixed

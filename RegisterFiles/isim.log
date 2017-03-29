@@ -1,0 +1,18 @@
+ISim log file
+Running: C:\Users\Victor Espinoza\Desktop\CECS 301\Lab 5 - Register Files\RegisterFiles\register_file_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 5 - Register Files/RegisterFiles/register_file_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+R_Adr=3 R=0000 || S_Adr=7 S=0000
+R_Adr=3 R=0015 || S_Adr=7 S=0001
+Stopped at time : 176 ns :  in File "C:/Users/Victor Espinoza/Desktop/CECS 301/Lab 5 - Register Files/RegisterFiles/Source Code/register_file_tb.v" Line 88 

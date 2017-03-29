@@ -1,0 +1,5 @@
+verilog work "Source Code/reg16.v"
+verilog work "Source Code/decoder_3_to_8.v"
+verilog work "Source Code/register_file.v"
+verilog work "Source Code/register_file_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

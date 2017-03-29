@@ -1,0 +1,49 @@
+NET "clk" 		  LOC="B8";
+
+NET "reset" 	  LOC="H13";
+
+NET "we" 		  LOC="E18";
+
+NET "W[3]" 		  LOC="K17";
+
+NET "W[2]" 		  LOC="K18";
+
+NET "W[1]" 		  LOC="H18";
+
+NET "W[0]" 		  LOC="G18";
+
+NET "w_adr[1]"   LOC="D18";
+
+NET "w_adr[0]"   LOC="B18";
+
+NET "r_adre[1]"   LOC="R17";
+
+NET "r_adre[0]"   LOC="N17";
+
+NET "s_adr[1]"   LOC="L13";
+
+NET "s_adr[0]"   LOC="L14";
+
+
+NET "a3" 		  LOC="F15";
+
+NET "a2" 		  LOC="C18";
+
+NET "a1" 		  LOC="H17";
+
+NET "a0" 		  LOC="F17";
+
+
+NET "a"    	     LOC= "L18";
+
+NET "b"   	     LOC= "F18";
+
+NET "c"    	     LOC= "D17";
+
+NET "d"   	     LOC= "D16";
+
+NET "e"   	     LOC= "G14";
+
+NET "f"   	     LOC= "J17";
+
+NET "g"   	     LOC= "H14";

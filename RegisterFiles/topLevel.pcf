@@ -1,0 +1,32 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Mar 29 01:00:41 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "e" LOCATE = SITE "G14" LEVEL 1;
+COMP "f" LOCATE = SITE "J17" LEVEL 1;
+COMP "g" LOCATE = SITE "H14" LEVEL 1;
+COMP "clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "we" LOCATE = SITE "E18" LEVEL 1;
+COMP "a0" LOCATE = SITE "F17" LEVEL 1;
+COMP "a1" LOCATE = SITE "H17" LEVEL 1;
+COMP "a2" LOCATE = SITE "C18" LEVEL 1;
+COMP "a3" LOCATE = SITE "F15" LEVEL 1;
+COMP "s_adr<0>" LOCATE = SITE "L14" LEVEL 1;
+COMP "r_adre<0>" LOCATE = SITE "N17" LEVEL 1;
+COMP "s_adr<1>" LOCATE = SITE "L13" LEVEL 1;
+COMP "r_adre<1>" LOCATE = SITE "R17" LEVEL 1;
+COMP "w_adr<0>" LOCATE = SITE "B18" LEVEL 1;
+COMP "w_adr<1>" LOCATE = SITE "D18" LEVEL 1;
+COMP "reset" LOCATE = SITE "H13" LEVEL 1;
+COMP "W<0>" LOCATE = SITE "G18" LEVEL 1;
+COMP "W<1>" LOCATE = SITE "H18" LEVEL 1;
+COMP "W<2>" LOCATE = SITE "K18" LEVEL 1;
+COMP "W<3>" LOCATE = SITE "K17" LEVEL 1;
+COMP "a" LOCATE = SITE "L18" LEVEL 1;
+COMP "b" LOCATE = SITE "F18" LEVEL 1;
+COMP "c" LOCATE = SITE "D17" LEVEL 1;
+COMP "d" LOCATE = SITE "D16" LEVEL 1;
+NET "clk_BUFGP/IBUFG" BEL "clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

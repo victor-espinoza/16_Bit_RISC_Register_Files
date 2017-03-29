@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Victor Espinoza\Desktop\CECS 301\Lab 5 - Register Files\RegisterFiles\topLevel.ncd
+OUTFILE=C:\Users\Victor Espinoza\Desktop\CECS 301\Lab 5 - Register Files\RegisterFiles\topLevel.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=C:\Users\Victor Espinoza\Desktop\CECS 301\Lab 5 - Register Files\RegisterFiles
+LICENSE=WebPack
+USER_INFO=174166057_174166058_210574515_042
