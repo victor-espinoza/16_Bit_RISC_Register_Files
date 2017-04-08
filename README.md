@@ -14,4 +14,4 @@ This project was created using Xilinx ISE Project Navigator Version: 14.7.
 
   
 Project Verification:    
-The verification for this project was done by running the circuit through the register_file_tb() module. This module ensures that we are able to write data to and read data from our register file correctly.
+The verification for this project was done by running the circuit through the register_file_tb() module. This module ensures that we are able to write data to and read data from our register file correctly. This was also verified by using the Nexys2 board.
