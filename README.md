@@ -1,4 +1,4 @@
-# Lab_5_Register_Files
+# Lab_4_Register_Files
 Project Overview:
 Register File implemented using Verilog.  
   
