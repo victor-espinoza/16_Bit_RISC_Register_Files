@@ -15,3 +15,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+*.c linguist-detectable=false
+*.html linguist-detectable=false
+*.v linguist-language=Verilog
