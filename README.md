@@ -1,4 +1,5 @@
 Project Overview: 
+
 Register File implemented using Verilog.  
   
 This project revolved around designing and implementing a 8x16 register file using structural Verilog. This means that we have to use eight instances of a 16-bit register and three instances of a 3-to-8 decoder to make our 8x16 register file. Note: all control signals are active-high.  
